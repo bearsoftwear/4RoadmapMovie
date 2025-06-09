@@ -1,8 +1,34 @@
-import Image from "next/image";
+import Image from 'next/image';
+import fs from 'fs/promises';
+import path from 'path';
+import Link from 'next/link';
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+} from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
 
-export default function Home() {
+async function getMovies() {
+  const filePath = path.join(process.cwd(), 'data', 'movies.json');
+  const data = await fs.readFile(filePath, 'utf-8');
+  return JSON.parse(data);
+}
+
+export default async function Home() {
+  const movies = await getMovies();
+  console.log('Movies:', movies);
+
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
+      {movies.map((movie) => (
+        <Link key={movie.id} href={`/movies/${movie.id}`}>
+          <Card className="h-full hover:shadow-lg transition-shadow cursor-pointer"></Card>
+        </Link>
+      ))}
+
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
         <Image
           className="dark:invert"
@@ -14,7 +40,7 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
+            Get started by editing{' '}
             <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
               app/page.js
             </code>
