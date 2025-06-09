@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "title": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "releaseYear": 1972,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/1972/posters/godfather_ver1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "The Godfather: Part II",
+    "description": "The early life and career of Vito Corleone in 1920s NYC is portrayed while his son expands the family crime syndicate.",
+    "releaseYear": 1974,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/1974/posters/godfather_part_ii.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pulp Fiction",
+    "description": "The lives of two mob hitmen, a boxer, and others intertwine in four tales of violence and redemption.",
+    "releaseYear": 1994,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/1994/posters/pulp_fiction.jpg"
+  },
+  {
+    "id": 4,
+    "title": "The Matrix",
+    "description": "A hacker discovers a simulated reality and joins a rebellion.",
+    "releaseYear": 1999,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/1999/posters/matrix_ver1.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Inception",
+    "description": "A thief enters dreams to steal secrets.",
+    "releaseYear": 2010,
+    "genre": "Thriller",
+    "posterLink": "http://www.impawards.com/2010/posters/inception_ver1.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Spirited Away",
+    "description": "A girl navigates a magical world to save her parents.",
+    "releaseYear": 2001,
+    "genre": "Animation",
+    "posterLink": "http://www.impawards.com/2001/posters/spirited_away_ver1.jpg"
+  },
+  {
+    "id": 7,
+    "title": "The Dark Knight",
+    "description": "Batman faces the Joker, a criminal mastermind who wants to prove a point.",
+    "releaseYear": 2008,
+    "genre": "Action",
+    "posterLink": "http://www.impawards.com/2008/posters/dark_knight_ver1.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "description": "An insomniac office worker and a soap maker form an underground fight club.",
+    "releaseYear": 1999,
+    "genre": "Drama",
+    "posterLink": "http://www.impawards.com/1999/posters/fight_club_ver1.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Forrest Gump",
+    "description": "The presidencies, wars, and more through the eyes of an Alabama man with a low IQ.",
+    "releaseYear": 1994,
+    "genre": "Drama",
+    "posterLink": "http://www.impawards.com/1994/posters/forrest_gump_ver1.jpg"
+  },
+  {
+    "id": 10,
+    "title": "The Shawshank Redemption",
+    "description": "Two imprisoned men bond over a number of years.",
+    "releaseYear": 1994,
+    "genre": "Drama",
+    "posterLink": "http://www.impawards.com/1994/posters/shawshank_redemption_ver1.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Gladiator",
+    "description": "A former Roman General sets out to exact vengeance.",
+    "releaseYear": 2000,
+    "genre": "Action",
+    "posterLink": "http://www.impawards.com/2000/posters/gladiator_ver1.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Schindler's List",
+    "description": "In German-occupied Poland, Oskar Schindler saves Jewish refugees.",
+    "releaseYear": 1993,
+    "genre": "Biography",
+    "posterLink": "http://www.impawards.com/1993/posters/schindlers_list_ver1.jpg"
+  },
+  {
+    "id": 13,
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A meek Hobbit and eight companions set out on a journey to destroy a powerful ring.",
+    "releaseYear": 2001,
+    "genre": "Fantasy",
+    "posterLink": "http://www.impawards.com/2001/posters/lotr_fellowship_ver1.jpg"
+  },
+  {
+    "id": 14,
+    "title": "The Lord of the Rings: The Two Towers",
+    "description": "While Frodo and Sam edge closer to Mordor, the divided fellowship makes a stand.",
+    "releaseYear": 2002,
+    "genre": "Fantasy",
+    "posterLink": "http://www.impawards.com/2002/posters/lotr_two_towers_ver1.jpg"
+  },
+  {
+    "id": 15,
+    "title": "The Lord of the Rings: The Return of the King",
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army.",
+    "releaseYear": 2003,
+    "genre": "Fantasy",
+    "posterLink": "http://www.impawards.com/2003/posters/lotr_return_king_ver1.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Titanic",
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist.",
+    "releaseYear": 1997,
+    "genre": "Romance",
+    "posterLink": "http://www.impawards.com/1997/posters/titanic_ver1.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Jurassic Park",
+    "description": "During a preview tour, a theme park suffers a major power breakdown.",
+    "releaseYear": 1993,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/1993/posters/jurassic_park_ver1.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Avatar",
+    "description": "A paraplegic Marine is dispatched to the moon Pandora.",
+    "releaseYear": 2009,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/2009/posters/avatar_ver1.jpg"
+  },
+  {
+    "id": 19,
+    "title": "The Silence of the Lambs",
+    "description": "A young FBI cadet seeks the help of Dr. Hannibal Lecter to catch another serial killer.",
+    "releaseYear": 1991,
+    "genre": "Thriller",
+    "posterLink": "http://www.impawards.com/1991/posters/silence_lambs_ver1.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Saving Private Ryan",
+    "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines.",
+    "releaseYear": 1998,
+    "genre": "War",
+    "posterLink": "http://www.impawards.com/1998/posters/saving_private_ryan_ver1.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Interstellar",
+    "description": "A team travels through a wormhole in space in an attempt to ensure humanity's survival.",
+    "releaseYear": 2014,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/2014/posters/interstellar_ver1.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Terminator 2: Judgment Day",
+    "description": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son.",
+    "releaseYear": 1991,
+    "genre": "Action",
+    "posterLink": "http://www.impawards.com/1991/posters/t2_ver1.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Back to the Future",
+    "description": "Marty McFly, a teenager, is accidentally sent thirty years into the past.",
+    "releaseYear": 1985,
+    "genre": "Adventure",
+    "posterLink": "http://www.impawards.com/1985/posters/back_to_future_ver1.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Toy Story",
+    "description": "A cowboy doll is profoundly threatened when a new spaceman figure replaces him as top toy.",
+    "releaseYear": 1995,
+    "genre": "Animation",
+    "posterLink": "http://www.impawards.com/1995/posters/toy_story_ver1.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Finding Nemo",
+    "description": "After his son is captured, a timid clownfish sets out on a journey to bring him home.",
+    "releaseYear": 2003,
+    "genre": "Animation",
+    "posterLink": "http://www.impawards.com/2003/posters/finding_nemo_ver1.jpg"
+  },
+  {
+    "id": 26,
+    "title": "The Lion King",
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle.",
+    "releaseYear": 1994,
+    "genre": "Animation",
+    "posterLink": "http://www.impawards.com/1994/posters/lion_king_ver1.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Casablanca",
+    "description": "A cynical American expatriate struggles to decide between love and virtue.",
+    "releaseYear": 1942,
+    "genre": "Romance",
+    "posterLink": "http://www.impawards.com/1942/posters/casablanca_ver1.jpg"
+  },
+  {
+    "id": 28,
+    "title": "One Flew Over the Cuckoo's Nest",
+    "description": "A criminal pleads insanity and is admitted to a mental institution.",
+    "releaseYear": 1975,
+    "genre": "Drama",
+    "posterLink": "http://www.impawards.com/1975/posters/one_flew_over_cuckoos_nest_ver1.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Goodfellas",
+    "description": "The rise and fall of mob associate Henry Hill and his friends.",
+    "releaseYear": 1990,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/1990/posters/goodfellas_ver1.jpg"
+  },
+  {
+    "id": 30,
+    "title": "The Departed",
+    "description": "An undercover cop and a mole in the police attempt to identify each other.",
+    "releaseYear": 2006,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/2006/posters/departed_ver1.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Whiplash",
+    "description": "A promising young drummer enrolls at a cut-throat music conservatory.",
+    "releaseYear": 2014,
+    "genre": "Drama",
+    "posterLink": "http://www.impawards.com/2014/posters/whiplash_ver1.jpg"
+  },
+  {
+    "id": 32,
+    "title": "The Prestige",
+    "description": "Two stage magicians engage in a battle to create the ultimate illusion.",
+    "releaseYear": 2006,
+    "genre": "Mystery",
+    "posterLink": "http://www.impawards.com/2006/posters/prestige_ver1.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Alien",
+    "description": "The crew of a commercial spacecraft encounter a deadly lifeform.",
+    "releaseYear": 1979,
+    "genre": "Horror",
+    "posterLink": "http://www.impawards.com/1979/posters/alien_ver1.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Blade Runner",
+    "description": "A blade runner must pursue and terminate four replicants.",
+    "releaseYear": 1982,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/1982/posters/blade_runner_ver1.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Apocalypse Now",
+    "description": "An American officer travels upriver into Cambodia seeking a renegade colonel.",
+    "releaseYear": 1979,
+    "genre": "War",
+    "posterLink": "http://www.impawards.com/1979/posters/apocalypse_now_ver1.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Jaws",
+    "description": "A giant man-eating great white shark attacks beachgoers.",
+    "releaseYear": 1975,
+    "genre": "Thriller",
+    "posterLink": "http://www.impawards.com/1975/posters/jaws_ver1.jpg"
+  },
+  {
+    "id": 37,
+    "title": "E.T. the Extra-Terrestrial",
+    "description": "A troubled child connects with an extraterrestrial who is stranded on Earth.",
+    "releaseYear": 1982,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/1982/posters/et_ver1.jpg"
+  },
+  {
+    "id": 38,
+    "title": "A Clockwork Orange",
+    "description": "In a dystopian future, a gang leader is subjected to experimental behavior modification.",
+    "releaseYear": 1971,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/1971/posters/clockwork_orange_ver1.jpg"
+  },
+  {
+    "id": 39,
+    "title": "2001: A Space Odyssey",
+    "description": "A voyage to Jupiter with a sentient computer HAL after the discovery of a mysterious monolith.",
+    "releaseYear": 1968,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/1968/posters/2001_space_odyssey_ver1.jpg"
+  },
+  {
+    "id": 40,
+    "title": "The Shining",
+    "description": "A family heads to an isolated hotel where a sinister presence influences the father.",
+    "releaseYear": 1980,
+    "genre": "Horror",
+    "posterLink": "http://www.impawards.com/1980/posters/shining_ver1.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Mad Max: Fury Road",
+    "description": "In a post-apocalyptic wasteland, Max teams up to flee from a cult leader.",
+    "releaseYear": 2015,
+    "genre": "Action",
+    "posterLink": "http://www.impawards.com/2015/posters/mad_max_fury_road_ver1.jpg"
+  },
+  {
+    "id": 42,
+    "title": "The Avengers",
+    "description": "Earth's mightiest heroes must come together to stop Loki.",
+    "releaseYear": 2012,
+    "genre": "Action",
+    "posterLink": "http://www.impawards.com/2012/posters/avengers_ver1.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Black Panther",
+    "description": "T'Challa returns home as king of Wakanda but finds his sovereignty challenged.",
+    "releaseYear": 2018,
+    "genre": "Action",
+    "posterLink": "http://www.impawards.com/2018/posters/black_panther_ver1.jpg"
+  },
+  {
+    "id": 44,
+    "title": "La La Land",
+    "description": "A musician and an aspiring actress fall in love while pursuing their dreams.",
+    "releaseYear": 2016,
+    "genre": "Musical",
+    "posterLink": "http://www.impawards.com/2016/posters/la_la_land_ver1.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Get Out",
+    "description": "A young African-American visits his white girlfriend's parents and senses something amiss.",
+    "releaseYear": 2017,
+    "genre": "Horror",
+    "posterLink": "http://www.impawards.com/2017/posters/get_out_ver1.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Moonlight",
+    "description": "A young man deals with his dysfunctional home life and sexuality while growing up in Miami.",
+    "releaseYear": 2016,
+    "genre": "Drama",
+    "posterLink": "http://www.impawards.com/2016/posters/moonlight_ver1.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Parasite",
+    "description": "Greed and class discrimination threaten the symbiotic relationship between two families.",
+    "releaseYear": 2019,
+    "genre": "Thriller",
+    "posterLink": "http://www.impawards.com/2019/posters/parasite_ver1.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Joker",
+    "description": "In Gotham City, mentally troubled comedian Arthur Fleck embarks on a downward spiral.",
+    "releaseYear": 2019,
+    "genre": "Crime",
+    "posterLink": "http://www.impawards.com/2019/posters/joker_ver1.jpg"
+  },
+  {
+    "id": 49,
+    "title": "1917",
+    "description": "Two young British soldiers during WWI are given a mission to deliver a message.",
+    "releaseYear": 2019,
+    "genre": "War",
+    "posterLink": "http://www.impawards.com/2019/posters/1917_ver1.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Dune",
+    "description": "Feature adaptation of Frank Herbert's science fiction novel about the son of a noble family.",
+    "releaseYear": 2021,
+    "genre": "Sci‑Fi",
+    "posterLink": "http://www.impawards.com/2021/posters/dune_ver1.jpg"
+  }
+]
